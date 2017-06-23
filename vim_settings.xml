@@ -1,0 +1,52 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/sumo/service/src/main/java/com/sumologic/service/endpoint/ireport/v1/impl/DashboardSearcherUtil.scala" timestamp="1498176814163">
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="175" column="58" />
+      </file>
+      <file name="$USER_HOME$/Development/sumo/metricsstore/src/main/scala/com/sumologic/metricsstore/retrieve/CustomLabeler.scala" timestamp="1498171038574">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1498178301946">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/sumo/system/src/test/scala/com/sumologic/system/scala/system/ConcurrentUploadAndSearchIT.scala" timestamp="1498171353609">
+        <mark key="'" line="200" column="67" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="200" column="67" filename="$USER_HOME$/Development/sumo/system/src/test/scala/com/sumologic/system/scala/system/ConcurrentUploadAndSearchIT.scala" />
+      <jump line="45" column="2" filename="$USER_HOME$/Development/sumo/service/src/main/java/com/sumologic/service/endpoint/ireport/v1/impl/DashboardSearcherUtil.scala" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuYwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuYwo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
